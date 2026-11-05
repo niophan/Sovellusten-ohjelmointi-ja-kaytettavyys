@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Harjoitus-3</string>
+    <string name="profile_photo">Profile Photo</string>
+    <string name="ossi_seidel">Ossi Seidel</string>
+    <string name="level_25">Level 25</string>
+    <string name="battles_won">Battles Won</string>
+    <string name="achievements">Achievements</string>
+    <string name="shield">Shield</string>
+    <string name="achievement">Achievement</string>
+    <string name="cards_collected">Cards Collected</string>
+    <string name="cards">Cards</string>
+    <string name="top_deck">Top Deck</string>
+    <string name="super_wizard">Super Wizard</string>
+    <string name="p_e_k_k_a">P.E.K.K.A</string>
+    <string name="ice_golem">Ice Golem</string>
+    <string name="recent_achievements">Recent Achievements</string>
+    <string name="rank">Rank</string>
+    <string name="arena_champion">Arena Champion</string>
+    <string name="card_collector">Card Collector</string>
+    <string name="speed_runner">Speed Runner</string>
+    <string name="thunder">Thunder</string>
+    <string name="fire">Fire</string>
+
+    <!-- Home Screen -->
+    <string name="under_construction">Under construction</string>
+
+    <!-- Scaffold & Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_cards">Cards</string>
+    <string name="nav_profile">Profile</string>
+    <string name="title_arena">Arena</string>
+    <string name="title_collection">Collection</string>
+    <string name="title_player">Player</string>
+    <string name="settings">Settings</string>
+    <string name="edit">Edit</string>
+    <string name="add_to_favorites">Add to favorites</string>
+
+    <!-- Card Headers -->
+    <string name="character_photo">Character photo</string>
+
+    <!-- Cards Data -->
+    <string name="grace_name">Grace</string>
+    <string name="healer_role">Healer</string>
+    <string name="healer_desc">This majestic creature lives to protect and aid her fellow troops. Any army is improved with her healing support, but make sure to protect her from air defenses!</string>
+
+    <string name="dragonheart_name">Dragonheart</string>
+    <string name="baby_dragon_role">Baby Dragon</string>
+    <string name="baby_dragon_desc">This fire-breathing hatchling is shy around other air units, but leave it alone and it\'ll throw a fit!</string>
+
+    <string name="frostborn_name">The Frostborn</string>
+    <string name="ice_golem_desc">The Ice Golem has a chilling personality and absolutely zero sense of humour. He frosts over everything he touches, freezes his surroundings when destroyed and ices up when talked to at a party.</string>
+
+    <string name="dreadforge_name">Dreadforge</string>
+    <string name="ram_rider_role">Ram Rider</string>
+    <string name="ram_rider_desc">Ram Rider is in a huge hurry to spread Clashmas cheer. After her first charge she\'ll keep jumping over walls to throw bells at defenses.</string>
+
+    <string name="stoner_name">Stoner</string>
+    <string name="bowler_role">Bowler</string>
+    <string name="bowler_desc">This big blue dude digs the simple things in life - Dark Elixir drinks and throwing rocks.</string>
+
+    <string name="stormbreaker_name">Stormbreaker</string>
+    <string name="super_wizard_desc">Super Wizard is positively charged with magical energy! He\'s either the smartest person in the room... or else he blows the whole room to bits.</string>
+
+    <string name="warborn_name">Warborn</string>
+    <string name="pekka_desc">Is P.E.K.K.A a knight? A samurai? A robot? No one knows! P.E.K.K.A\'s armor absorbs even the mightiest of blows.</string>
+
+    <string name="titanfall_name">Titanfall</string>
+    <string name="super_giant_role">Super Giant</string>
+    <string name="super_giant_desc">Super Giants are more visually similar to Boxer Giants than the regular ones, having a belt and compression bandages around the wrist and a different hairstyle.</string>
+
+    <string name="ragebound_name">Ragebound</string>
+    <string name="super_archery_role">Super Archery</string>
+    <string name="super_archery_desc">Having achieved serious arm strength, the Super Archer can now threaten targets several buildings away.</string>
+</resources>

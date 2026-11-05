@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Harjoitus6</string>
+
+    <!-- Product List -->
+    <string name="discount_tag">*ALE 30%</string>
+    <string name="category_content_description">Kategoria</string>
+    <string name="price_content_description">Hinta</string>
+    <string name="product_list_title">Tuotelista:</string>
+    <string name="show_all_products">Näytä kaikki tuotteet</string>
+    <string name="show_only_discount_products">Näytä vain alennetut tuotteet</string>
+    <string name="no_products_to_show">Ei tuotteita näytettäväksi</string>
+    <string name="etsi_tuotteita">Etsi tuotteita</string>
+
+    <!-- Product Details -->
+    <string name="back_button_description">Takaisin</string>
+    <string name="price_label">Hinta</string>
+    <string name="on_discount_label">Alennuksessa</string>
+    <string name="discount_yes">Kyllä (30%)</string>
+    <string name="discount_no">Ei</string>
+    <string name="product_description_title">Tuotekuvaus</string>
+    <string name="offers_content_description">Tarjoukset</string>
+
+    <!-- Discount Calculator -->
+    <string name="discount_calculator_title">Ale-laskuri</string>
+    <string name="discount_calculator_subtitle">Syötä tuotteen hinta ja alennusprosentti.</string>
+    <string name="product_price_label">Tuotteen hinta (euro)</string>
+    <string name="discount_percent_label">Alennusprosentti (%)</string>
+    <string name="error_invalid_input">Virheellinen käyttäjän syöte!</string>
+    <string name="button_calculate">Laske</string>
+    <string name="button_clear">Tyhjennä</string>
+    <string name="final_price_format">Loppuhinta: %1$.1f €</string>
+    <string name="discount_calculator_note">HUOM: Sovellus auttaa opiskelijoita laskemaan nopeasti alennettujen tuotteiden hinnan S-ryhmän myymälöissä. Jos alennusprosenttia ei anneta, oletusalennus on 30 %. Kello 21 jälkeen oletusalennus on automaattisesti 60 %.</string>
+
+    <!-- Registration -->
+    <string name="registration_form_title">Ilmoittautumislomake</string>
+    <string name="registration_form_subtitle">Anna nimi ja osallistujien määrä.</string>
+    <string name="name_label">Nimi</string>
+    <string name="participants_label">Osallistujia: %1$d</string>
+    <string name="participants_count_prefix">Osallistujia: </string>
+    <string name="button_confirm">Vahvista</string>
+    <string name="summary_title">Yhteenveto</string>
+    <string name="summary_name">Nimi: %1$s</string>
+    <string name="summary_participants">Osallistujia: %1$d</string>
+
+    <!-- Counter & Buttons -->
+    <string name="counter_title">Laskurin nykyinen arvo</string>
+    <string name="button_add">Lisää</string>
+    <string name="button_subtract">Vähennä</string>
+    <string name="button_reset">Nollaa</string>
+</resources>

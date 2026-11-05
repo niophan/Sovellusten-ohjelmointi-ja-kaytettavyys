@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Harjoitus-3</string>
+    <string name="profile_photo">Profiilikuva</string>
+    <string name="ossi_seidel">Ossi Seidel</string>
+    <string name="level_25">Taso 25</string>
+    <string name="battles_won">Voitetut taistelut</string>
+    <string name="achievements">Saavutukset</string>
+    <string name="shield">Kilpi</string>
+    <string name="achievement">Saavutus</string>
+    <string name="cards_collected">Kerätyt kortit</string>
+    <string name="cards">Kortit</string>
+    <string name="top_deck">Paras pakka</string>
+    <string name="super_wizard">Supervelho</string>
+    <string name="p_e_k_k_a">P.E.K.K.A</string>
+    <string name="ice_golem">Jäägolemi</string>
+    <string name="recent_achievements">Viimeisimmät saavutukset</string>
+    <string name="rank">Sijoitus</string>
+    <string name="arena_champion">Areenan mestari</string>
+    <string name="card_collector">Korttien keräilijä</string>
+    <string name="speed_runner">Nopeusjuoksija</string>
+    <string name="thunder">Ukkonen</string>
+    <string name="fire">Tuli</string>
+
+    <!-- Home Screen -->
+    <string name="under_construction">Rakenteilla</string>
+
+    <!-- Scaffold & Navigation -->
+    <string name="nav_home">Koti</string>
+    <string name="nav_cards">Kortit</string>
+    <string name="nav_profile">Profiili</string>
+    <string name="title_arena">Areena</string>
+    <string name="title_collection">Kokoelma</string>
+    <string name="title_player">Pelaaja</string>
+    <string name="settings">Asetukset</string>
+    <string name="edit">Muokkaa</string>
+    <string name="add_to_favorites">Lisää suosikkeihin</string>
+
+    <!-- Card Headers -->
+    <string name="character_photo">Hahmon kuva</string>
+
+    <!-- Cards Data -->
+    <string name="grace_name">Grace</string>
+    <string name="healer_role">Parantaja</string>
+    <string name="healer_desc">Tämä majesteettinen olento elää suojellakseen ja auttaakseen joukkuetovereitaan. Jokainen armeija paranee hänen parantavalla tuellaan, mutta muista suojella häntä ilmapuolustukselta!</string>
+
+    <string name="dragonheart_name">Dragonheart</string>
+    <string name="baby_dragon_role">Vauvalohikäärme</string>
+    <string name="baby_dragon_desc">Tämä tulta syöksevä poikanen on ujo muiden ilmoyksiköiden seurassa, mutta jätä se yksin ja se saa raivokohtauksen!</string>
+
+    <string name="frostborn_name">Frostborn</string>
+    <string name="ice_golem_desc">Jäägolemilla on kylmä persoona ja täysin nolla huumorintajua. Hän jäädyttää kaiken, mihin koskee, jäädyttää ympäristönsä tuhoutuessaan ja jäätyy, kun hänelle puhutaan juhlassa.</string>
+
+    <string name="dreadforge_name">Dreadforge</string>
+    <string name="ram_rider_role">Oinasratsastaja</string>
+    <string name="ram_rider_desc">Oinasratsastajalla on kova kiire levittää Clashmas-iloa. Ensimmäisen hyökkäyksensä jälkeen hän jatkaa hyppimistä seinien yli heittääkseen kelloja puolustukseen.</string>
+
+    <string name="stoner_name">Stoner</string>
+    <string name="bowler_role">Keilaaja</string>
+    <string name="bowler_desc">Tämä iso sininen tyyppi tykkää elämän yksinkertaisista asioista - Dark Elixir -juomista ja kivien heittämisestä.</string>
+
+    <string name="stormbreaker_name">Stormbreaker</string>
+    <string name="super_wizard_desc">Supervelho on ladattu positiivisesti maagisella energialla! Hän on joko huoneen viisain ihminen... tai sitten hän räjäyttää koko huoneen palasiksi.</string>
+
+    <string name="warborn_name">Warborn</string>
+    <string name="pekka_desc">Onko P.E.K.K.A ritari? Samurai? Robotti? Kukaan ei tiedä! P.E.K.K.A:n haarniska imee jopa mahtavimmat iskut.</string>
+
+    <string name="titanfall_name">Titanfall</string>
+    <string name="super_giant_role">Superjätti</string>
+    <string name="super_giant_desc">Superjätit ovat visuaalisesti samanlaisia kuin nyrkkeilijäjätit, heillä on vyö ja puristussiteet ranteen ympärillä sekä erilainen kampaus.</string>
+
+    <string name="ragebound_name">Ragebound</string>
+    <string name="super_archery_role">Superjousiampuja</string>
+    <string name="super_archery_desc">Saavutettuaan vakavaa käsivoimaa, Superjousiampuja voi nyt uhata kohteita useiden rakennusten päässä.</string>
+</resources>

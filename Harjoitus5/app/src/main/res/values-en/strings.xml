@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Harjoitus5</string>
+
+    <!-- Product List -->
+    <string name="discount_tag">*SALE 30%</string>
+    <string name="category_content_description">Category</string>
+    <string name="price_content_description">Price</string>
+    <string name="product_list_title">Product list:</string>
+    <string name="show_all_products">Show all products</string>
+    <string name="show_only_discount_products">Show only discounted products</string>
+    <string name="no_products_to_show">No products to show</string>
+
+    <!-- Discount Calculator -->
+    <string name="discount_calculator_title">Discount Calculator</string>
+    <string name="discount_calculator_subtitle">Enter the product price and discount percentage.</string>
+    <string name="product_price_label">Product price (euro)</string>
+    <string name="discount_percent_label">Discount percentage (%)</string>
+    <string name="error_invalid_input">Invalid input!</string>
+    <string name="button_calculate">Calculate</string>
+    <string name="button_clear">Clear</string>
+    <string name="final_price_format">Final price: %1$.1f €</string>
+    <string name="discount_calculator_note">NOTE: The app helps students quickly calculate the price of discounted products in S Group stores. If no discount percentage is given, the default discount is 30%. After 21:00, the default discount is automatically 60%.</string>
+
+    <!-- Registration -->
+    <string name="registration_form_title">Registration Form</string>
+    <string name="registration_form_subtitle">Enter name and number of participants.</string>
+    <string name="name_label">Name</string>
+    <string name="participants_label">Participants: %1$d</string>
+    <string name="participants_count_prefix">Participants: </string>
+    <string name="button_confirm">Confirm</string>
+    <string name="summary_title">Summary</string>
+    <string name="summary_name">Name: %1$s</string>
+    <string name="summary_participants">Participants: %1$d</string>
+
+    <!-- Counter & Buttons -->
+    <string name="counter_title">Current counter value</string>
+    <string name="button_add">Add</string>
+    <string name="button_subtract">Subtract</string>
+    <string name="button_reset">Reset</string>
+</resources>
